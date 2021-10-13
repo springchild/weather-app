@@ -133,3 +133,10 @@ ul {
   font-size: 40px;
   margin: 0;
 }
+#built-by {
+  text-align: center;
+  font-size: 13px;
+}
+#github-link {
+  text-decoration: none;
+}
